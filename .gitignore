@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+Content/ThirdPerson
+Content/ThirdPersonBP
+Content/Mannequin
+Content/Geometry
