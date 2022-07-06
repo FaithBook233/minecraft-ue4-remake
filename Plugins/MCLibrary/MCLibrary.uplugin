@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MCLibrary",
+	"Description": "我的世界UE4重置版的工具插件",
+	"Category": "Other",
+	"CreatedBy": "FaithBook-_-",
+	"CreatedByURL": "",
+	"DocsURL": "https://www.cnblogs.com/KillerAery/p/11509470.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MCLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
